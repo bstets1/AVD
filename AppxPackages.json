@@ -73,7 +73,7 @@
   },
   {
     "AppxPackage": "Microsoft.ScreenSketch",
-    "VDIState": "Disabled",
+    "VDIState": "Unchanged",
     "URL": "https://www.microsoft.com/en-us/p/snip-sketch/9mz95kl8mr0l",
     "Description": "Snip and Sketch app"
   },
@@ -85,7 +85,7 @@
   },
   {
     "AppxPackage": "Microsoft.Todos",
-    "VDIState": "Disabled",
+    "VDIState": "Unchanged",
     "URL": "https://www.microsoft.com/en-us/p/microsoft-to-do-lists-tasks-reminders/9nblggh5r558",
     "Description": "Microsoft To Do makes it easy to plan your day and manage your life"
   },
@@ -202,5 +202,35 @@
     "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/store/apps/9wzdncrfjbd8",
     "Description": "Xbox 'Console Companion' app (games, friends, etc.)"
+  },
+  {
+    "AppxPackage": "Microsoft.MixedReality.Portal",
+    "VDIState": "Disabled",
+    "URL": "https://www.microsoft.com/en-us/p/mixed-reality-portal/9ng1h8b3zc7m",
+    "Description": "The app that facilitates Windows Mixed Reality setup, and serves as the command center for mixed reality experiences"
+  },
+  {
+    "AppxPackage": "Microsoft.Microsoft3DViewer",
+    "VDIState": "Disabled",
+    "URL": "https://www.microsoft.com/en-us/p/3d-viewer/9nblggh42ths",
+    "Description": "App to view common 3D file types"
+  },
+  {
+    "AppxPackage": "MicrosoftTeams",
+    "VDIState": "Unchanged",
+    "URL": "https://www.microsoft.com/en-us/microsoft-teams/group-chat-software",
+    "Description": "Microsoft communication platform"
+  },
+  {
+    "AppxPackage": "Microsoft.OneDriveSync",
+    "VDIState": "Unchanged",
+    "URL": "https://docs.microsoft.com/en-us/onedrive/one-drive-sync",
+    "Description": "Microsoft OneDrive sync app (included in Office 2016 or later)"
+  },
+  {
+    "AppxPackage": "Microsoft.Wallet",
+    "VDIState": "Disabled",
+    "URL": "https://www.microsoft.com/en-us/payments",
+    "Description": "(Microsoft Pay) for Edge browser on certain devices"
   }
 ]
