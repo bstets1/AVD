@@ -1,5 +1,11 @@
 [
   {
+    "AppxPackage": "Clipchamp.Clipchamp",
+    "VDIState": "Unchanged",
+    "URL": "https://apps.microsoft.com/store/detail/9P1J8S7CCWWT",
+    "Description": "Video editing app"
+  },
+  {
     "AppxPackage": "Microsoft.BingNews",
     "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/microsoft-news/9wzdncrfhvfw",
@@ -54,10 +60,10 @@
     "Description": "Note-taking app"
   },
   {
-    "AppxPackage": "Microsoft.Paint",
+    "AppxPackage": "Microsoft.MSPaint",
     "VDIState": "Unchanged",
-    "URL": "https://www.microsoft.com/en-us/p/paint/9pcfs5b6t72h",
-    "Description": "Windows basic sketching and graphics app"
+    "URL": "https://apps.microsoft.com/store/detail/paint-3d/9NBLGGH5FV99",
+    "Description": "Paint 3D app (not Classic Paint app)"
   },
   {
     "AppxPackage": "Microsoft.People",
