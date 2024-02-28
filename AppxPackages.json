@@ -65,11 +65,6 @@
     "URL": "https://www.microsoft.com/en-us/p/microsoft-sticky-notes/9nblggh4qghw",
     "Description": "Note-taking app"
   },
-    "AppxPackage": "Microsoft.OutlookForWindows",
-    "VDIState": "Disabled",
-    "URL": "https://apps.microsoft.com/detail/9NRX63209R7B?hl=en-us&gl=US",
-    "Description": "a best-in-class email experience that is free for anyone with Windows"
-  },
   {
     "AppxPackage": "Microsoft.MSPaint",
     "VDIState": "Unchanged",
