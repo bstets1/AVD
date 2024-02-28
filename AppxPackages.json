@@ -18,6 +18,12 @@
     "Description": "MSN Weather app"
   },
   {
+    "AppxPackage": "Microsoft.DesktopAppInstaller",
+    "VDIState": "Unchanged",
+    "URL": "https://apps.microsoft.com/detail/9NBLGGH4NNS1",
+    "Description": "Microsoft App Installer for Windows 10 makes sideloading Windows 10 apps easy"
+  },
+  {
     "AppxPackage": "Microsoft.GamingApp",
     "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/xbox/9mv0b5hzvk9z",
@@ -59,6 +65,11 @@
     "URL": "https://www.microsoft.com/en-us/p/microsoft-sticky-notes/9nblggh4qghw",
     "Description": "Note-taking app"
   },
+    "AppxPackage": "Microsoft.OutlookForWindows",
+    "VDIState": "Disabled",
+    "URL": "https://apps.microsoft.com/detail/9NRX63209R7B?hl=en-us&gl=US",
+    "Description": "a best-in-class email experience that is free for anyone with Windows"
+  },
   {
     "AppxPackage": "Microsoft.MSPaint",
     "VDIState": "Unchanged",
@@ -94,6 +105,12 @@
     "VDIState": "Unchanged",
     "URL": "https://www.microsoft.com/en-us/p/microsoft-to-do-lists-tasks-reminders/9nblggh5r558",
     "Description": "Microsoft To Do makes it easy to plan your day and manage your life"
+  },
+  {
+    "AppxPackage": "Microsoft.Windows.DevHome",
+    "VDIState": "Disabled",
+    "URL": "https://learn.microsoft.com/en-us/windows/dev-home/",
+    "Description": "A control center providing the ability to monitor projects in your dashboard using customizable widgets and more"
   },
   {
     "AppxPackage": "Microsoft.Windows.Photos",
@@ -156,6 +173,12 @@
     "Description": "A terminal app featuring tabs, panes, Unicode, UTF-8 character support, and GPU text rendering engine."
   },
   {
+    "AppxPackage": "Microsoft.Winget.Platform.Source",
+    "VDIState": "Enabled",
+    "URL": "https://learn.microsoft.com/en-us/windows/package-manager/winget/",
+    "Description": "The Winget tool enables users to manage applications on Win10 and Win11 devices. This tool is the client interface to the Windows Package Manager service"
+  },
+  {
     "AppxPackage": "Microsoft.Xbox.TCUI",
     "VDIState": "Disabled",
     "URL": "https://docs.microsoft.com/en-us/gaming/xbox-live/features/general/tcui/live-tcui-overview",
@@ -202,6 +225,12 @@
     "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2",
     "Description": "Movies and TV app"
+  },
+  {
+    "AppxPackage": "MicrosoftCorporationII.QuickAssist",
+    "VDIState": "Disabled",
+    "URL": "https://apps.microsoft.com/detail/9P7BP5VNWKX5?hl=en-us&gl=US",
+    "Description": "Microsoft remote help app"
   },
   {
     "AppxPackage": "Microsoft.XboxApp",
